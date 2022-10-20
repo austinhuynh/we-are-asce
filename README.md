@@ -20,4 +20,4 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
-**Automated Content Creation Via Javascript**
+**⚙️ Automated Content Creation Via Javascript**
