@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img width="184" height="172" src="https://raw.githubusercontent.com/austinhuynh/we-are-asce/main/images/logos/asce.svg">
+  <img width="184" height="172" src="./images/logos/asce.svg">
 </p>
 
 This project was built using these technologies.
